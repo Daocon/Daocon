@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!--
 **Daocon/Daocon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
